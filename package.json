@@ -1,6 +1,6 @@
 {
   "name": "rest-crud",
-  "description": "REST CRUD Example Node.js & Mysql",
+  "description": "REST",
   "version": "0.0.1",
   
   "main": "server.js",
