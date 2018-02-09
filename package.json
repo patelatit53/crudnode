@@ -2,7 +2,7 @@
   "name": "rest-crud",
   "description": "REST CRUD Example Node.js & Mysql",
   "version": "0.0.1",
-  "private": true,
+  
   "main": "server.js",
   "dependencies": {
     "body-parser": "1.9.0",
