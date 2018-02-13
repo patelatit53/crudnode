@@ -70,7 +70,7 @@ curut.get(function(req,res,next){
     });
 
 });
-//post data to DB | POST
+//post data to DB | POS
 curut.post(function(req,res,next){
 
     //validation
